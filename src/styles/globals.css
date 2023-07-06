@@ -11,3 +11,19 @@
   background-image: url(../assets/mainimg.png);
   
 }
+.hover1:hover{
+  transition: .4s;
+  transform: translateY(-10px);
+}
+.hover2:hover{
+  transition: .4s;
+  transform: translateY(-10px);
+}
+.hover3:hover{
+  transition: .4s;
+  transform: translateY(-10px);
+}
+.shd{
+  filter: drop-shadow(3px 15px 35px rgba(120, 125, 173, 0.06));
+  stroke-width: 2px;
+}
